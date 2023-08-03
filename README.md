@@ -1,5 +1,5 @@
 # Interation-Comment-Section
-### Hey :wave: welcome to my challenge Nice to me you.... {#custom-id}
+### Hey :wave: welcome to my challenge Nice to me you.... 
 
 ![Interation comment section](/design/desktop-design.jpg)
 
@@ -19,7 +19,7 @@
 - live: [Live Site URL]( https://tdmoree.github.io/Interation-Comment-Section/)
 
  # My process
- | :--- **Built with**        |
+ <h1> **Built with:** </h1>
 
    - Semantic HTML5 markup
    - CSS custom properties
@@ -31,7 +31,7 @@
 
 # What i learn 
 
-### <h1>Some HTML code I'm proud of</h1> {#custom-id}
+### <h1>Some HTML code I'm proud of</h1> 
 
 - CSS Grid
 - Mobile first design 
