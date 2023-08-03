@@ -5,7 +5,7 @@
 
 # The challenge
 
-### Users should be able to: {#custom-id}
+### Users should be able to:
 
 - View the optimal layout for the app depending on their device's screen size
 - See hover states for all interactive elements on the page
@@ -19,7 +19,7 @@
 - live: [Live Site URL]( https://tdmoree.github.io/Interation-Comment-Section/)
 
  # My process
- <h1> **Built with:** </h1>
+ **Built with:**
 
    - Semantic HTML5 markup
    - CSS custom properties
@@ -31,7 +31,7 @@
 
 # What i learn 
 
-### <h1>Some HTML code I'm proud of</h1> 
+### Some HTML code I'm proud of:
 
 - CSS Grid
 - Mobile first design 
