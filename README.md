@@ -2,9 +2,9 @@
 
 ![Interation comment section](/design/desktop-design.jpg)
 
-#The challenge
+# The challenge
 
 
-#Links
+# Links
 - URL: [Solution URL:](https://github.com/tdmoree/Interation-Comment-Section.git)
 - live: [Live Site URL:]( https://tdmoree.github.io/Interation-Comment-Section/)
