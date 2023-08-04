@@ -1,5 +1,5 @@
 # Interation-Comment-Section
-### Hey :wave: welcome to my challenge Nice to me you.... 
+### Hey :wave: welcome to my challenge Nice to meet you.... 
 
 ![Interation comment section](/design/desktop-design.jpg)
 
